@@ -44,8 +44,7 @@ h1{
 .card:hover{
  transition:  2s ease ;
    rotate: 1 1 0 45deg;
-    
-
+font-style: italic;
 
 }
 .card img{
@@ -60,8 +59,9 @@ h1{
     color: rgb(255, 255, 255);
     font-size: 13px;
     margin-bottom: 8px;
-    padding: 8px;
+    padding: 9px;
     text-align: center;
+    
 }
 
 .btn{
